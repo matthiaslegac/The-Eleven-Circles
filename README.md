@@ -1,2 +1,2 @@
 # The-Eleven-Circles
-2D Game platformer
+2D Game/RPG platformer
