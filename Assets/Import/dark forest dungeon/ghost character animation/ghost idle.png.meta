@@ -1,7 +1,91 @@
 fileFormatVersion: 2
 guid: 2f912dd9fdc3d4561900b5549c2a3522
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -8308975019218951987
+    second: ghost idle_0
+  - first:
+      213: 7930507951527998544
+    second: ghost idle_1
+  - first:
+      213: 3761651044840889019
+    second: ghost idle_2
+  - first:
+      213: 2767025014960575792
+    second: ghost idle_3
+  - first:
+      213: 8522505610430793441
+    second: ghost idle_4
+  - first:
+      213: -4689206153217764479
+    second: ghost idle_5
+  - first:
+      213: -4220583330383083654
+    second: ghost idle_6
+  - first:
+      213: 5866828504371074572
+    second: ghost idle_7
+  - first:
+      213: 5831530703440442641
+    second: ghost idle_8
+  - first:
+      213: 8468559842289481711
+    second: ghost idle_9
+  - first:
+      213: 2882934399536115154
+    second: ghost idle_10
+  - first:
+      213: 7400696866624462639
+    second: ghost idle_11
+  - first:
+      213: 2034085781266604466
+    second: ghost idle_12
+  - first:
+      213: -5401052549160926860
+    second: ghost idle_13
+  - first:
+      213: 3838191234182261310
+    second: ghost idle_14
+  - first:
+      213: -2715725877097512228
+    second: ghost idle_15
+  - first:
+      213: 5612434576894590973
+    second: ghost idle_16
+  - first:
+      213: 5624268219670007269
+    second: ghost idle_17
+  - first:
+      213: -3422660560994149077
+    second: ghost idle_18
+  - first:
+      213: 4497580745439967128
+    second: ghost idle_19
+  - first:
+      213: 2374247179399234238
+    second: ghost idle_20
+  - first:
+      213: -6538038487232363022
+    second: ghost idle_21
+  - first:
+      213: -9040157869737409059
+    second: ghost idle_22
+  - first:
+      213: 1395935717175087842
+    second: ghost idle_23
+  - first:
+      213: -4542978719948860420
+    second: ghost idle_24
+  - first:
+      213: -8857591811665442047
+    second: ghost idle_25
+  - first:
+      213: -8432486416139280474
+    second: ghost idle_26
+  - first:
+      213: 5047159465451809188
+    second: ghost idle_27
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -32,7 +116,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -41,12 +125,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -68,7 +152,19 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -77,7 +173,595 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: ghost idle_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 3
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc02cdb2e3790bc80800000000000000
+      internalID: -8308975019218951987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost idle_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 3
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054bc3bd6f2de0e60800000000000000
+      internalID: 7930507951527998544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost idle_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 3
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbad7b8f1b1143430800000000000000
+      internalID: 3761651044840889019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost idle_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 3
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035585d3792766620800000000000000
+      internalID: 2767025014960575792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost idle_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 2
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e64002d2b5064670800000000000000
+      internalID: 8522505610430793441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost idle_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 2
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18311ee19d79ceeb0800000000000000
+      internalID: -4689206153217764479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost idle_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 2
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77c49792d97d65c0800000000000000
+      internalID: -4220583330383083654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost idle_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 2
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c069c21e0792b6150800000000000000
+      internalID: 5866828504371074572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost idle_8
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 2
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115f95b2742cde050800000000000000
+      internalID: 5831530703440442641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost idle_9
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 2
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe77dc6ee4e568570800000000000000
+      internalID: 8468559842289481711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost idle_10
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 2
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ddaa1bdf8d320820800000000000000
+      internalID: 2882934399536115154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost idle_11
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 2
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f5f71f69e84b660800000000000000
+      internalID: 7400696866624462639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost idle_12
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 2
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1a113bd368a3c10800000000000000
+      internalID: 2034085781266604466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost idle_13
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4718b02925b9b05b0800000000000000
+      internalID: -5401052549160926860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost idle_14
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 0
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3aa375879ef34530800000000000000
+      internalID: 3838191234182261310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost idle_15
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 0
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2444c04bdcf4ad0800000000000000
+      internalID: -2715725877097512228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost idle_16
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 2
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfffbe0038f53ed40800000000000000
+      internalID: 5612434576894590973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost idle_17
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 3
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed03faa52a6d0e40800000000000000
+      internalID: 5624268219670007269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost idle_18
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 3
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d54339a544080d0800000000000000
+      internalID: -3422660560994149077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost idle_19
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 3
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897f598dbdd9a6e30800000000000000
+      internalID: 4497580745439967128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost idle_20
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 3
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb28019fa3503f020800000000000000
+      internalID: 2374247179399234238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost idle_21
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 3
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5cea8c2a83445a0800000000000000
+      internalID: -6538038487232363022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost idle_22
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 3
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd589d47058ea8280800000000000000
+      internalID: -9040157869737409059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost idle_23
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 3
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e25087832c5f5310800000000000000
+      internalID: 1395935717175087842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost idle_24
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 3
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf31a478ce814f0c0800000000000000
+      internalID: -4542978719948860420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost idle_25
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 3
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bc5444d23831580800000000000000
+      internalID: -8857591811665442047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost idle_26
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 3
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af16b0284ac9fa80800000000000000
+      internalID: -8432486416139280474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost idle_27
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 3
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a96107facc1b0640800000000000000
+      internalID: 5047159465451809188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
